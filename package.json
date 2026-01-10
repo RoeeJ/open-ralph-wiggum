@@ -4,7 +4,7 @@
   "description": "Ralph Wiggum technique for OpenCode - iterative AI development loops with self-correcting agents",
   "main": "bin/ralph.js",
   "bin": {
-    "ralph": "./bin/ralph.js"
+    "ralph": "bin/ralph.js"
   },
   "scripts": {
     "start": "bun ralph.ts",
